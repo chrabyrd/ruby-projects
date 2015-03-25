@@ -1,3 +1,5 @@
+#This program finds the largest prime factor for a given number.
+
 #I'm aware of the .Prime class in ruby, but I wanted to try solving this without it.
 
 def largest_prime(n)
