@@ -1,3 +1,6 @@
+#This program takes in an array of stock prices, one for each hypothetical day. 
+#It returns a pair of days representing the best day to buy and the best day to sell.
+
 def stock_picker(days)
 	x = 0
 	sets_of_two = days.permutation(2).to_a
