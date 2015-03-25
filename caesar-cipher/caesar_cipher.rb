@@ -1,3 +1,5 @@
+# This is a Caesar cipher that preserves capitalization, punctuation, and inputted numbers!
+
 def convert_to_integer
     puts "What would you like to encode?"
     words = gets.chomp
