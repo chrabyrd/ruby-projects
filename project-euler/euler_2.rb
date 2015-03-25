@@ -1,3 +1,5 @@
+#This program finds the sum of the even-value terms in the Fibonacci sequence for values up to four million.
+
 even_fib = []
 r = 0
 
