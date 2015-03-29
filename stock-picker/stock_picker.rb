@@ -13,7 +13,7 @@ def stock_picker(days)
 		x += 1
 	end
 
-	print [days.find_index(buy_sell[0]), days.find_index(buy_sell[1])	
+	print [days.find_index(buy_sell[0]), days.find_index(buy_sell[1])]	
 end
 
 stock_picker([17,3,6,9,15,8,6,1,10])
